@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsaniulbasirsaz" alt="mdsaniulbasirsaz" /></a> </p>
 
-- 🔭 I’m currently working on [Tour-Planner](https://tour-planner-9799.onrender.com)
+- 🔭 I’m currently working on [OneVote](https://github.com/mdsaniulbasirsaz/OneVote)
 
-- 👯 I’m looking to collaborate on [Tour-Planner](https://tour-planner-9799.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
