@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Saniul Basir Saz</h1>
-<h3 align="center">C# | ASP.NET | C++ | Competitive Programmer | Focused on mastering .NET technologies</h3>
+<h3 align="center">C# | ASP.NET Core | MERN Stack | C++ | Competitive Programmer | Focused on mastering .NET technologies</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsaniulbasirsaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
