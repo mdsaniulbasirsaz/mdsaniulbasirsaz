@@ -13,7 +13,7 @@
 - 🔭 **Currently Working On:** [OneVote](https://github.com/mdsaniulbasirsaz/OneVote)  
 - 🌱 **Learning Focus:** ASP.NET Core, C#, .NET 9.0  
 - 💡 **Goal:** Master .NET technologies and contribute to impactful projects.  
-- 💬 **Ask Me About:** ASP.NET, C#, Competitive Programming, and Software Architecture  
+- 💬 **Ask Me About:** ASP.NET, C#, Competitive Programming, MERN Stack  
 - 📫 **Reach Me At:** saniul.cse.just@gmail.com  
 
 ---
