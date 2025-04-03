@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Saniul Basir Saz</h1>
-<h3 align="center">C# | ASP.NET Core | MERN Stack | C++ | Competitive Programmer | Focused on mastering .NET technologies</h3>
+<h3 align="center">C# | ASP.NET Core | Blockchain & AI/ML Enthusiast | MERN Stack | C++ | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsaniulbasirsaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,10 +10,10 @@
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/mdsaniulbasirsaz.svg)](https://user-badge.committers.top/bangladesh_public/mdsaniulbasirsaz)
 
 
-- 🔭 **Currently Working On:** [OneVote](https://github.com/mdsaniulbasirsaz/OneVote)  
+- 🔭 **Currently Working On:** [Farm2Frok](https://github.com/mdsaniulbasirsaz/Farm2Fork)  
 - 🌱 **Learning Focus:** ASP.NET Core, C#, .NET 9.0  
 - 💡 **Goal:** Master .NET technologies and contribute to impactful projects.  
-- 💬 **Ask Me About:** ASP.NET, C#, Competitive Programming, MERN Stack  
+- 💬 **Ask Me About:** ASP.NET, C#, Competitive Programming, MERN Stack  , Blockchain , AI/ML
 - 📫 **Reach Me At:** saniul.cse.just@gmail.com  
 
 ---
