@@ -14,7 +14,7 @@
 </p>
 
 <p align="center" style="color:#ffffff;">
-  <b>🔭 Currently Working On:</b> style="color:#0d8af0;">Therap Java Fest 2025 Project</a><br>
+  <b>🔭 Currently Working On:</b> Therap Java Fest 2025 Project<br>
   <b>🌱 Learning Focus:</b> ASP.NET Core, C#, .NET 9.0<br>
   <b>💡 Goal:</b> Master .NET technologies and contribute to impactful projects<br>
   <b>💬 Ask Me About:</b> ASP.NET, C#, Competitive Programming, MERN Stack, Blockchain, AI/ML, Flutter<br>
